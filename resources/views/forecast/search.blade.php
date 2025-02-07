@@ -7,6 +7,7 @@
 
         <div class="search-container">
             <input type="text" placeholder='Address, e.g. "London" or "SK12 0QU"'/>
+            <button>Search</button>
         </div>
     </div>
 @endsection
